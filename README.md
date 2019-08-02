@@ -1,2 +1,1 @@
-A software project that's embedded on a Raspberry Pi and involves integrating SOPARE for voice recognition along with 
-IR sensors to verify object presence for a gate built with Lego parts.
+AI-Powered gate implemented with SOPARE for voice recognition operation and embedded on a Raspberry Pi with IR sensors to verify object presence. The physical parts are made from Lego.
